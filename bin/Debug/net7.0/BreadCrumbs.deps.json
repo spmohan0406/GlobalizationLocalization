@@ -1,0 +1,40 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BreadCrumbs/1.0.0": {
+        "runtime": {
+          "BreadCrumbs.dll": {}
+        },
+        "resources": {
+          "de-DE/BreadCrumbs.resources.dll": {
+            "locale": "de-DE"
+          },
+          "en-US/BreadCrumbs.resources.dll": {
+            "locale": "en-US"
+          },
+          "ja/BreadCrumbs.resources.dll": {
+            "locale": "ja"
+          },
+          "ru-RU/BreadCrumbs.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "ta/BreadCrumbs.resources.dll": {
+            "locale": "ta"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BreadCrumbs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
